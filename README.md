@@ -1,3 +1,4 @@
+本项目源于：https://github.com/jirengu-inc/animating-resume。向作者表示深深的敬意。
 
 ## 使用方法
 
